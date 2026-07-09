@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Mansha 👋
 
-<!--
-**mansha13102003/Mansha13102003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on turning raw, messy data into dashboards and insights people can actually act on. Comfortable across the full pipeline — cleaning data, building visualizations, and designing interfaces that make numbers easy to explore.
 
-Here are some ideas to get you started:
+🔍 What I work with: SQL, Python, dashboards, data visualization, JavaScript/Chart.js
+📊 Recently built: An interactive sales analytics dashboard from a 10K-row retail dataset — live KPIs, filters, and profit/discount insights, all in a single self-contained file. Check it out →
+🎯 Currently: Open to Data Analyst / BI opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Project
+
+Interactive Sales Analytics Dashboard
+Built a fully interactive, single-file dashboard from a raw retail transactions dataset — real-time KPIs, city/category/segment breakdowns, monthly trends, and a discount-vs-profit-margin analysis. No backend, runs entirely in the browser.
+HTML CSS JavaScript Chart.js Data Analysis
+
+Let's connect
+
+📫 mansha13102003@gmail.com
